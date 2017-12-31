@@ -1,0 +1,12 @@
+## 初始安装的软件
+* zsh
+* oh-my-zsh
+* vim
+* vimplus
+* git
+* gcc
+* g++
+* python 
+* python3
+* golang
+* ssh
