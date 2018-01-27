@@ -2,7 +2,7 @@
 ```
 sudo su 
 apt update 
-apt install zsh vim git gcc g++ python ssh python3
+apt install zsh vim git gcc g++ python ssh python3 net-tools iputils-ping
 ```
 ### zsh
 `sudo apt install zsh`

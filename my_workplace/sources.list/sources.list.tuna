@@ -1,0 +1,4 @@
+deb http://mirrors.tuna.tsinghua.edu.cn/ xenial main restricted universe multiverse
+deb http://mirrors.tuna.tsinghua.edu.cn/ xenial xenial-security main restricted universe multiverse
+deb http://mirrors.tuna.tsinghua.edu.cn/ xenial xenial-updates main restricted universe multiverse
+deb http://mirrors.tuna.tsinghua.edu.cn/ xenial xenial-backports main restricted universe multiverse
