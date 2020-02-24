@@ -346,4 +346,7 @@ zle -N backward-delete-char check-cmd-backward-delete-char
 
 export PATH=$PATH:/usr/local/cuda/bin
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64
-
+alias docker='sudo docker'
+alias pip='sudo pip'
+alias yum='sudo yum'
+alias apt='sudo apt'
